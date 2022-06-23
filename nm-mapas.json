@@ -40,8 +40,42 @@
         "latitude": -16.740829887817462,
         "longitude": -49.27738499771326,
         "name": "BURITI SHOPPING - GO"
+    },
+    {
+        "key": "ST",
+        "latitude": -2.4398978981276014,
+        "longitude": -54.72069164785188,
+        "name": "CD SANTAREM - PA"
+    },
+    {
+        "key": "TO",
+        "latitude": -21.171986900317396, 
+        "longitude": -43.02374531841844,
+        "name": "DEPOSITO - TO"
+    },
+    {
+        "key": "DS",
+        "latitude": -2.5833275407943743, 
+        "longitude": -44.28644032210998,
+        "name": "DEPOSITO SÃO LUIS - MA"
+    },
+    {
+        "key": "AN",
+        "latitude": -1.346566100294239,
+        "longitude": -48.41077530806845,
+        "name": "ANANIDEUA - PA"
+    },
+    {
+        "key": "MN",
+        "latitude": -3.041224548586722, 
+        "longitude": -60.04058784188193,
+        "name": "DEPOSITO MANAUS - AM"
+    },
+    {
+        "key": "CB",
+        "latitude": -15.39851810899382, 
+        "longitude": -56.061997541775966,
+        "name": "DEPOSITO CUIABA - MT"
     }
 
 ]
-
-
