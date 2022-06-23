@@ -16,6 +16,32 @@
         "latitude": -16.658953327388552,
         "longitude": -49.25942408207257,
         "name": "ARAGUAIA SHOPPING - GO"
+    },
+    {
+        "key": "CP",
+        "latitude": -16.668344040975008,
+        "longitude": -49.29269329819998,
+        "name": "CAMPINAS 24 OUT - GO"
+    },
+    {
+        "key": "PS",
+        "latitude": -16.770385792275174,
+        "longitude": -49.35271353806086,
+        "name": "PORTAL SHOPPING - GO"
+    },
+    {
+        "key": "AP",
+        "latitude": -16.675582406527003,
+        "longitude": -49.3057151731698,
+        "name": "AVENIDA PIO XII - GO"
+    },
+    {
+        "key": "BS",
+        "latitude": -16.740829887817462,
+        "longitude": -49.27738499771326,
+        "name": "BURITI SHOPPING - GO"
     }
 
 ]
+
+
